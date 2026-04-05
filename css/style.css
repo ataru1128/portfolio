@@ -45,6 +45,10 @@ body {
 }
 
 /* FV */
+
+.features h2 {
+    text-align: center;
+}
 .fv {
     height: 100vh;
     background-image: url(../img/img-photo01.jpg);
